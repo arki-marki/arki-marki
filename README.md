@@ -15,18 +15,20 @@
 ### 🧭 about me
 
 <p align="center">
-  <em>A loud and proud extroverted nerd? Yep, we exist! 😄 Because even serious life needs a healthy dose of unseriousness.</em>
+  <em>extroverted nerd, no such thing as a small talk topic i won't get into 😄</em>
 </p>
 
-- 🧠 **Tech Passions:** AI & local inference, networking (UniFi gear especially), IoT tinkering, and self-hosting.
-- 🏗️ **Currently Building:** A dedicated server room from the ground up — drywall, electrical, flooring, AC, the works — to house a UniFi network/surveillance rack and a self-hosted home server + web dev pipeline.
-- 🤖 **Deep in the Weeds Of:** Local AI inference hardware (comparing options like Mac mini clusters vs. NVIDIA DGX Spark) for running large models at home.
-- 🖨️ **Maker Side:** 3D printing practical parts for the server room and tech organization, plus building and flying RC & freeflight planes.
-- 💬 **Languages:** Bulgarian, English, and German.
-- ✈️ **Out of Office:** Flying planes, hitting the gym (with a mandatory stop at the sauna 🧖‍♂️), or reading a good book.
-- 🤝 **Vibe:** I love approaching people and being approached — let's chat!
-- 💼 **Day Job:** Online customer support (talking to folks all day and still loving it).
-- 📚 **Always Learning:** Cognitive self-improvement, evidence-based learning habits, and hands-on before hand-holding — I like to get my hands dirty on a problem before asking for help.
+- 🧠 into AI/local inference, networking (UniFi mostly), IoT, self-hosting — basically anything I can take apart and rebuild better
+- 📈 also into stocks & investing
+- 🏗️ right now: building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
+- 🤖 currently comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally
+- 📟 latest build: an AI-powered e-paper stock ticker on a Raspberry Pi — repo coming soon
+- 🖨️ printing whatever the server room needs on a Bambu A1 Mini, also build and fly RC & freeflight planes
+- 💬 speak Bulgarian, English, and German
+- ✈️ off the clock: flying planes, gym + sauna, or a good book
+- 🤝 love talking to people, so say hi
+- 💼 day job: online customer support
+- 📚 always figuring out how to learn better, hands-on before I go asking anyone for help
 
 ---
 
@@ -34,8 +36,8 @@
 
 | Area | Details |
 |---|---|
-| 🌐 Home Network | UniFi Cloud Gateway Ultra, Switch Pro Max 16 PoE, U7 Lite AP, PoE cameras, structured cabling (Cat6/T568B) |
-| 🖥️ Home Server | Self-hosted stack with Gitea/Forgejo, Caddy reverse proxy, Docker-based CI/CD, Ollama/LM Studio for local LLMs |
+| 🌐 Home Network | 
+| 🖥️ Home Server | 
 | 🧊 Server Room | Full physical renovation — drywall, electrical, flooring, painting, AC |
 | 🖨️ 3D Printing | Bambu Lab A1 Mini for practical prints and organization |
 
