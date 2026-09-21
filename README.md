@@ -10,61 +10,49 @@
   <img src="https://skillicons.dev/icons?i=py,linux,git,bash,docker,raspberrypi" alt="My Stack" />
 </p>
 
----
-
-### 🧭 about me
+## 🧭 about me
 
 <p align="center">
-  <em>extroverted nerd, no such thing as a small talk topic i won't get into 😄</em>
+  <em>Extroverted nerd based in Bulgaria. There is no such thing as a small talk topic I won't dive deep into 😄</em>
 </p>
 
-- 🧠 into AI/local inference, networking (UniFi mostly), IoT, self-hosting — basically anything I can take apart and rebuild better
-- 📈 also into stocks & investing
-- 🏗️ right now: building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
-- 🤖 currently comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally
-- 📟 latest build: an AI-powered e-paper stock ticker on a Raspberry Pi — repo coming soon
-- 🖨️ printing whatever the server room needs on a Bambu A1 Mini, also build and fly RC & freeflight planes
-- 💬 speak Bulgarian, English, and German
-- ✈️ off the clock: flying planes, gym + sauna, or a good book
-- 🤝 love talking to people, so say hi
-- 💼 day job: online customer support
-- 📚 always figuring out how to learn better, hands-on before I go asking anyone for help
+🧠 **Tech & Tinkering:** Passionate about AI/local inference, networking, IoT, and self-hosting. Basically, if I can take it apart and rebuild it better, I’m in. <br>
+🏗️ **Current Builds:** Currently renovating a server room from scratch—handling the drywall, electrical, flooring, and AC for a rack and self-hosted server. Also drawing up ideas for a multi-story container house project! <br>
+🤖 **AI & Hardware:** Actively comparing Mac mini clusters vs. NVIDIA DGX setups and custom hardware builds to run massive models locally. <br>
+📈 **Markets & Code:** Big into stocks and investing, especially tracking high-volatility tech stocks on the Nasdaq. My latest side-project is an AI-powered e-paper stock ticker running on a Raspberry Pi (repo coming soon 📟). <br>
+🖨️ **Maker Life:** 3D printing custom parts for the server room on my Bambu A1 Mini, and building/flying RC & freeflight planes. <br>
+🍻 **Off the Clock:** When I'm unplugged, I love going out with friends for good drinks and deep debates. Otherwise, you'll find me at the gym, recovering in the sauna, or lost in a good book. <br>
+💼 **Day Job:** Online customer support. Always up for connecting, so drop a hi! <br>
+💬 **Languages:** Speak Bulgarian, English, and German. <br>
+📚 **Philosophy:** Hands-on learner. I like breaking things and figuring out how to fix them before I go asking for help.
 
----
-
-### 🛠️ what i'm tinkering with
+## 🛠️ what i'm tinkering with
 
 | Area | Details |
-|---|---|
-| 🌐 Home Network | 
-| 🖥️ Home Server | 
-| 🧊 Server Room | Full physical renovation — drywall, electrical, flooring, painting, AC |
-| 🖨️ 3D Printing | Bambu Lab A1 Mini for practical prints and organization |
+| :--- | :--- |
+| 🌐 **Home Network** | UniFi Cloud Gateway Ultra |
+| 🖥️ **Home Server** | Self-hosted stack |
+| 🧊 **Server Room** | Full physical renovation — drywall, electrical, flooring, painting, AC |
+| 🖨️ **3D Printing** | Bambu Lab A1 Mini for practical prints and organization |
 
----
-
-### 📊 stats & metrics
+## 📊 stats & metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arki-marki&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arki-marki&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arki-marki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arki-marki&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-### 🏆 achievements
+## 🏆 achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arki-marki&theme=onedark&no-frame=true&column=3" alt="Trophies" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=80&section=footer" alt="Footer" />
