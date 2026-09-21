@@ -11,13 +11,14 @@
 ### about me 🚀
 
 <p align="center">
-  <em>A loud and proud extroverted nerd? Yep, we exist! 😄</em>
+  <em>A loud and proud extroverted nerd? Yep, we exist! 😄 Because even serious life needs a healthy dose of unseriousness.</em>
 </p>
 
-- 🧠 **Tech Passions:** AI, Networking, and Ubiquiti gear.
-- ⚡ **Projects:** Loving anything and everything related to IoT.
-- 💼 **Day Job:** Online customer support (dealing with people all day and still loving it!).
-- 🏅 **Off-Screen:** Big fan of sports and picking up a good book from time to time.
+- 🧠 **Tech Passions:** AI, Networking, Ubiquiti gear, and tinkering with IoT projects.
+- 💬 **Languages:** Bulgarian, English, and German.
+- ✈️ **Out of Office:** Building and flying RC & freeflight planes, hitting the gym (with a mandatory stop at the sauna 🧖‍♂️), or reading a good book.
+- 🤝 **Vibe:** I love approaching people and being approached—let's chat!
+- 💼 **Day Job:** Online customer support (talking to folks all day and still loving it).
 
 ---
 
