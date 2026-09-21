@@ -13,20 +13,28 @@
 ## 🧭 about me
 
 <p align="center">
-  <em>extroverted nerd based in bulgaria, no such thing as a small talk topic i won't get into 😄</em>
+  <em>extroverted nerd based in bulgaria. no such thing as a small talk topic i won't get into 😄</em>
 </p>
 
-🧠 into AI/local inference, networking (UniFi mostly), IoT, self-hosting — basically anything I can take apart and rebuild better
-🏗️ right now: building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
-🤖 currently comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally. also messing around with parsing my own AI data archives, downloading my projects, memories, and conversations directly from my `manifest-89f1d125-4a81-4041-9888-071f46329ac9-1789951717-c7653893-2026-09-21-00-48-48.json` export[cite: 1]
-📈 also into stocks & investing
-📟 latest build: an AI-powered e-paper stock ticker on a Raspberry Pi — repo coming soon
-🖨️ printing whatever the server room needs on a Bambu A1 Mini, also build and fly RC & freeflight planes
-🍻 off the clock: going out with friends for good drinks and deep debates, flying planes, gym + sauna, or a good book
-💬 speak bulgarian, english, and german
-🤝 love talking to people, so say hi
-💼 day job: online customer support, still enjoy it after talking to people all day
-📚 always figuring out how to learn better, hands-on before I go asking anyone for help
+### 🧠 what i'm into
+- **tech & hardware:** AI/local inference, networking (UniFi mostly), IoT, and self-hosting. basically, if i can take it apart, sandbox it, flash GrapheneOS on it, or rebuild it better, i’m in
+- **markets:** big into stocks & investing, mostly tracking high-volatility tech plays on the Nasdaq
+- **learning:** hands-on learner. i like breaking things and figuring out how to fix them before i go asking anyone for help
+- **languages:** speak bulgarian, english, and german
+
+### 🏗️ on the workbench
+- **the server room:** building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
+- **future build:** drafting up plans for a multi-story container house project with some large terraces
+- **AI hardware:** comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally
+- **data archiving:** parsing my own AI data archives to extract projects, memories, and conversations directly from my `manifest-89f1d125-4a81-4041-9888-071f46329ac9-1789951717-c7653893-2026-09-21-00-48-48.json` export[cite: 1]
+- **current project:** an AI-powered e-paper stock ticker on a Raspberry Pi (repo coming soon 📟)
+- **making things:** printing whatever the server room needs on a Bambu A1 Mini
+
+### 🍻 off the clock
+- **unwinding:** going out with friends for good drinks and deep debates
+- **hobbies:** building and flying RC & freeflight planes
+- **recharging:** gym + sauna, or getting lost in a good book
+- **day job:** online customer support. i talk to people all day and genuinely still enjoy it. always up for a chat, so say hi!
 
 ## 🛠️ what i'm tinkering with
 
