@@ -13,25 +13,27 @@
 ## 🧭 about me
 
 <p align="center">
-  <em>Extroverted nerd based in Bulgaria. There is no such thing as a small talk topic I won't dive deep into 😄</em>
+  <em>extroverted nerd based in bulgaria, no such thing as a small talk topic i won't get into 😄</em>
 </p>
 
-🧠 **Tech & Tinkering:** Passionate about AI/local inference, networking, IoT, and self-hosting. Basically, if I can take it apart and rebuild it better, I’m in. <br>
-🏗️ **Current Builds:** Currently renovating a server room from scratch—handling the drywall, electrical, flooring, and AC for a rack and self-hosted server. Also drawing up ideas for a multi-story container house project! <br>
-🤖 **AI & Hardware:** Actively comparing Mac mini clusters vs. NVIDIA DGX setups and custom hardware builds to run massive models locally. <br>
-📈 **Markets & Code:** Big into stocks and investing, especially tracking high-volatility tech stocks on the Nasdaq. My latest side-project is an AI-powered e-paper stock ticker running on a Raspberry Pi (repo coming soon 📟). <br>
-🖨️ **Maker Life:** 3D printing custom parts for the server room on my Bambu A1 Mini, and building/flying RC & freeflight planes. <br>
-🍻 **Off the Clock:** When I'm unplugged, I love going out with friends for good drinks and deep debates. Otherwise, you'll find me at the gym, recovering in the sauna, or lost in a good book. <br>
-💼 **Day Job:** Online customer support. Always up for connecting, so drop a hi! <br>
-💬 **Languages:** Speak Bulgarian, English, and German. <br>
-📚 **Philosophy:** Hands-on learner. I like breaking things and figuring out how to fix them before I go asking for help.
+🧠 into AI/local inference, networking (UniFi mostly), IoT, self-hosting — basically anything I can take apart and rebuild better
+🏗️ right now: building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
+🤖 currently comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally. also messing around with parsing my own AI data archives, downloading my projects, memories, and conversations directly from my `manifest-89f1d125-4a81-4041-9888-071f46329ac9-1789951717-c7653893-2026-09-21-00-48-48.json` export[cite: 1]
+📈 also into stocks & investing
+📟 latest build: an AI-powered e-paper stock ticker on a Raspberry Pi — repo coming soon
+🖨️ printing whatever the server room needs on a Bambu A1 Mini, also build and fly RC & freeflight planes
+🍻 off the clock: going out with friends for good drinks and deep debates, flying planes, gym + sauna, or a good book
+💬 speak bulgarian, english, and german
+🤝 love talking to people, so say hi
+💼 day job: online customer support, still enjoy it after talking to people all day
+📚 always figuring out how to learn better, hands-on before I go asking anyone for help
 
 ## 🛠️ what i'm tinkering with
 
 | Area | Details |
 | :--- | :--- |
-| 🌐 **Home Network** | UniFi Cloud Gateway Ultra |
-| 🖥️ **Home Server** | Self-hosted stack |
+| 🌐 **Home Network** | UniFi Cloud Gateway Ultra, Switch Pro Max 16 PoE, U7 Lite AP, PoE cameras, structured cabling (Cat6/T568B) |
+| 🖥️ **Home Server** | Self-hosted stack with Gitea/Forgejo, Caddy reverse proxy, Docker-based CI/CD, Ollama/LM Studio for local LLMs |
 | 🧊 **Server Room** | Full physical renovation — drywall, electrical, flooring, painting, AC |
 | 🖨️ **3D Printing** | Bambu Lab A1 Mini for practical prints and organization |
 
