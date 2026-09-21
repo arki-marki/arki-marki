@@ -26,22 +26,20 @@
 - **the server room:** building a server room from scratch — drywall, electrical, flooring, AC, all of it — for a UniFi rack + a self-hosted home server
 - **future build:** drafting up plans for a multi-story container house project with some large terraces
 - **AI hardware:** comparing Mac mini clusters vs. the NVIDIA DGX Spark for running big models locally
-- **data archiving:** parsing my own AI data archives to extract projects, memories, and conversations directly from my `manifest-89f1d125-4a81-4041-9888-071f46329ac9-1789951717-c7653893-2026-09-21-00-48-48.json` export[cite: 1]
 - **current project:** an AI-powered e-paper stock ticker on a Raspberry Pi (repo coming soon 📟)
 - **making things:** printing whatever the server room needs on a Bambu A1 Mini
 
 ### 🍻 off the clock
 - **unwinding:** going out with friends for good drinks and deep debates
-- **hobbies:** building and flying RC & freeflight planes
-- **recharging:** gym + sauna, or getting lost in a good book
+- **recharging:** gym + sauna, a good book
 - **day job:** online customer support. i talk to people all day and genuinely still enjoy it. always up for a chat, so say hi!
 
 ## 🛠️ what i'm tinkering with
 
 | Area | Details |
 | :--- | :--- |
-| 🌐 **Home Network** | UniFi Cloud Gateway Ultra, Switch Pro Max 16 PoE, U7 Lite AP, PoE cameras, structured cabling (Cat6/T568B) |
-| 🖥️ **Home Server** | Self-hosted stack with Gitea/Forgejo, Caddy reverse proxy, Docker-based CI/CD, Ollama/LM Studio for local LLMs |
+| 🌐 **Home Network** |  |
+| 🖥️ **Home Server** | Self-hosted stack |
 | 🧊 **Server Room** | Full physical renovation — drywall, electrical, flooring, painting, AC |
 | 🖨️ **3D Printing** | Bambu Lab A1 Mini for practical prints and organization |
 
